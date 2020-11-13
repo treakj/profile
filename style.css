@@ -23,7 +23,6 @@
   .container {
     width: 400px;   /* This sets the width */
     margin: 20 auto; /* This automatically sets left/right margins */
-    auto; /* This automatically sets left/right margins */
   }
   
 }
@@ -78,7 +77,6 @@ h3 {
   color:cfd3ce;
   font-size: 8px;
 }
-
 
 .social{
   color: 8f384d;
