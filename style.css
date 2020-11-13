@@ -26,6 +26,12 @@
   }
   
 }
+
+.btn {
+  padding: 15px 20px;
+  border-radius: 4px;
+}
+
 @media (max-width: 540px) {
   /* For a screen < 540px, this CSS will be read */
 
@@ -59,6 +65,11 @@ body {
   padding-bottom: 10px;
 }
 
+p {
+  font-family: Raleway, 'Courier New', Courier, monospace;
+  color: 555555;
+  font-size: 24px;
+}
 
 h1 {
   font-family: Raleway, 'Courier New', Courier, monospace;
